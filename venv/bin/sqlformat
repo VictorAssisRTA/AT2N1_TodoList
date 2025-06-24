@@ -1,4 +1,4 @@
-#!/Users/victorassis/Documents/GitHub/AT2N1_TodoList/venv/bin/python3
+#!/Users/victorassis/Documents/GitHub/AT2N1_TodoList/AT2N1_TODOLIST/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
